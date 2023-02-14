@@ -1,5 +1,7 @@
 # Frontend Mentor - QR-CODE-COMPONENT
 
+./result/127.0.0.1_5503_.png
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
@@ -84,7 +86,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 ## Project live
-[Frontend Mentor | Four card feature section](https://godstimenwabue.github.io/four-card-feature-section/)
+[Frontend Mentor | QR-CODE-COMPONENT](https://godstimenwabue.github.io/qr-code-component/)
 
 ## Connect with me
 
