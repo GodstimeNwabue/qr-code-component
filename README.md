@@ -1,6 +1,6 @@
 # Frontend Mentor - QR-CODE-COMPONENT
 
-./result/127.0.0.1_5503_.png
+![](./result/127.0.0.1_5503_.png)
 
 ## Welcome! 👋
 
