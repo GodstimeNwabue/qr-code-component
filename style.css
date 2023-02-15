@@ -4,11 +4,11 @@
     box-sizing: border-box;
 }
 
-body {
+main {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh;
     text-align: center;
     /* background-color: hsl(220, 15%, 55%); */
     background-color: hsl(212, 45%, 89%);
@@ -20,7 +20,7 @@ body {
     justify-content: center;
     align-items: center;
     border-radius: 1rem;
-    width: 26%;
+    max-width: 20rem;
     box-shadow: -3px 4px 7px hsl(220deg 15% 55%);
 }
 
